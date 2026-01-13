@@ -1,10 +1,10 @@
 # Airbnb-listing-Analysis
 🏠 Airbnb Listings Data Analysis Project
-📌 Project Title
+**📌 Project Title
 
 Airbnb Listings Data Analysis & Interactive Dashboard
 📄 Project Overview
-This project focuses on analyzing Airbnb listing data to uncover key insights related to pricing, availability, customer reviews, and location-based trends. The goal is to help stakeholders such as hosts, travelers, and business analysts make data-driven decisions using structured analysis and interactive visualizations.
+- This project focuses on analyzing Airbnb listing data to uncover key insights related to pricing, availability, customer reviews, and location-based trends. The goal is to help stakeholders such as hosts, travelers, and business analysts make data-driven decisions using structured analysis and interactive visualizations.
 The project demonstrates end-to-end data analysis, including data cleaning, SQL querying, Python-based analysis, and Power BI dashboard creation.
 
 🎯 Objectives
